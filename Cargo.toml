@@ -3,7 +3,7 @@ name = "qoi_rs"
 description = "Rust port of the Quite Okay Image format"
 license = "MIT"
 repository = "https://github.com/whentze/qoi_rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 
 exclude = ["/reference_images/{wallpaper,screenshots,textures,kodak}", "/.github"]
