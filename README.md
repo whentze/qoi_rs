@@ -3,7 +3,7 @@
 [![crates.io](https://img.shields.io/crates/v/qoi_rs.svg)](https://crates.io/crates/qoi_rs)
 [![Documentation](https://docs.rs/qoi_rs/badge.svg)](https://docs.rs/qoi_rs)
 [![MIT licensed](https://img.shields.io/crates/l/qoi_rs.svg)](./LICENSE)
-[![CI](https://github.com/whentze/qoi_rs/workflows/CI/badge.svg)](https://github.com/whentze/qoi_rs/actions)
+[![CI](https://github.com/whentze/qoi_rs/actions/workflows/rust.yml/badge.svg)](https://github.com/whentze/qoi_rs/actions)
 
 
 ## What is this?
